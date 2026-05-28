@@ -1,4 +1,4 @@
 print("Hello")
 a = int(input())
 b = int(input())
-print("Result: " + (a + b))
+print("Result: " + (a - b))
